@@ -1,0 +1,223 @@
+export const initialData = {
+  A1: {
+    value: "Google Sheets Clone",
+    formula: "",
+    style: {
+      bold: true,
+      italic: false,
+      fontSize: 16,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  A3: {
+    value: "Numbers",
+    formula: "",
+    style: {
+      bold: true,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#f3f3f3",
+    },
+  },
+  A4: {
+    value: "10",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  A5: {
+    value: "20",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  A6: {
+    value: "30",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  A7: {
+    value: "40",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  A8: {
+    value: "50",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  B3: {
+    value: "Functions",
+    formula: "",
+    style: {
+      bold: true,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#f3f3f3",
+    },
+  },
+  B4: {
+    value: "=SUM(A4:A8)",
+    formula: "=SUM(A4:A8)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  B5: {
+    value: "=AVERAGE(A4:A8)",
+    formula: "=AVERAGE(A4:A8)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  B6: {
+    value: "=MAX(A4:A8)",
+    formula: "=MAX(A4:A8)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  B7: {
+    value: "=MIN(A4:A8)",
+    formula: "=MIN(A4:A8)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  B8: {
+    value: "=COUNT(A4:A8)",
+    formula: "=COUNT(A4:A8)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  D3: {
+    value: "Text Functions",
+    formula: "",
+    style: {
+      bold: true,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#f3f3f3",
+    },
+  },
+  D4: {
+    value: "  Text with spaces  ",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  E4: {
+    value: "=TRIM(D4)",
+    formula: "=TRIM(D4)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  D5: {
+    value: "lowercase text",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  E5: {
+    value: "=UPPER(D5)",
+    formula: "=UPPER(D5)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  D6: {
+    value: "UPPERCASE TEXT",
+    formula: "",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+  E6: {
+    value: "=LOWER(D6)",
+    formula: "=LOWER(D6)",
+    style: {
+      bold: false,
+      italic: false,
+      fontSize: 14,
+      color: "#000000",
+      backgroundColor: "#ffffff",
+    },
+  },
+}
+
